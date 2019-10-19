@@ -9,7 +9,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 Title: Project Outline,
 
 
-Overview: Have you as a business owner every looked for something you could of sworn you had for hours only to realize you sold
+Overview: Have you as a business owner ever looked for something you could of sworn you had for hours only to realize you sold
 it last week, or even worse bought something not knowing you already had it in the inventory? If you are like most small business
 owners, I'd bet you have. My inspiration came directly from my uncle who runs a business as a carpenter, he has a garage full of stuff
 with little to no idea whats in there. I simply told him something has to change, and just  like that an idea was born.
